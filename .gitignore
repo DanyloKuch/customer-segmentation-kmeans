@@ -1,0 +1,9 @@
+﻿.venv/
+.playwright-mcp/
+.ipynb_checkpoints/
+__pycache__/
+# локальні матеріали, не для репозиторію
+DEFENSE.md
+REPORT.md
+figures/
+customer_segmentation.html
